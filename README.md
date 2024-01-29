@@ -35,10 +35,33 @@ The CNN model exhibited strong performance in both training and validation phase
 Finally, the baseline model achieved an accuracy of 82%, whereas the comparison model outperformed with an accuracy of 98%. The confusion matrices of both models are shown in the following figures.
 
 <div style="display: flex; justify-content: space-between;">
-    <div>        
+    <div style="text-align: center;">        
         <img src="https://raw.githubusercontent.com/EnriqManComp/Mango-Leaf-Disease-Classification/master/KNN.png" alt="KNN Model">
     </div>
-    <div>        
+    <div style="text-align: center;">        
         <img src="https://raw.githubusercontent.com/EnriqManComp/Mango-Leaf-Disease-Classification/master/SVM.png" alt="SVM Model">
     </div>
 </div>
+
+<h2><b> Result Summary <b></h2>
+    
+<h3><b> GRAD-CAM visualization </b></h3>
+    
+<div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center;">        
+        <img src="https://raw.githubusercontent.com/EnriqManComp/Mango-Leaf-Disease-Classification/master/Samples.png" alt="Samples">
+    </div>
+    <div style="text-align: center;">        
+        <img src="https://raw.githubusercontent.com/EnriqManComp/Mango-Leaf-Disease-Classification/master/Superimposition.png" alt="gradCAM">
+    </div>
+</div>
+
+<h3><b> Model history </b></h3>
+    
+<div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center;">        
+        <img src="https://raw.githubusercontent.com/EnriqManComp/Mango-Leaf-Disease-Classification/master/training.png" alt="Model history">
+    </div>    
+</div>
+
+
