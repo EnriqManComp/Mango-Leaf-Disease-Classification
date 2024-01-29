@@ -4,7 +4,7 @@
 
 This project aims to differentiate among various diseases (multiclass prediction) present in mango leaves. Various machine learning techniques were employed in this project to achieve optimal performance in a model capable of predicting multiple classes.
 
-<h2><b> About the dataset </b></h2>
+<h2><b> About the dataset 💾 </b></h2>
 
 <h3><b>Description</b></h3>
 
@@ -30,7 +30,7 @@ Also, a Gradient-weighted Class Activation Mapping (grad-CAM) was employed to un
 
 The CNN model exhibited strong performance in both training and validation phases. However, it performed poorly with the test data, indicating a need for additional data to generalize and achieve satisfactory interclass differentiation. Consequently, an alternative approach was employed, utilizing a pretrained model (VGG16) for deep feature extraction. This was combined with a baseline model (KNN) and a comparison model (Support Vector Machine).
 
-<h3><b> Results </b></h3>
+<h3><b> Results 📊 </b></h3>
 
 Finally, the baseline model achieved an accuracy of 82%, whereas the comparison model outperformed with an accuracy of 98%. The confusion matrices of both models are shown in the following figures.
 
