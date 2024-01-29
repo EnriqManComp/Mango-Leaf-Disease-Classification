@@ -1,6 +1,6 @@
-# Mango Leaf Disease Classification using CNN, grad-CAM, and Deep feature extraction + KNN/SVM
+# Mango Leaf Disease Classification 🥭🍂 using CNN, grad-CAM, and Deep feature extraction + KNN/SVM
 
-<h1><b> Summary Report </b></h1>
+<h1><b> Summary Report 📑 </b></h1>
 
 This project aims to differentiate among various diseases (multiclass prediction) present in mango leaves. Various machine learning techniques were employed in this project to achieve optimal performance in a model capable of predicting multiple classes.
 
@@ -22,7 +22,7 @@ For more details, refer to:
 
 Ali, Sawkat; Ibrahim, Muhammad ; Ahmed, Sarder Iftekhar ; Nadim, Md. ; Mizanur, Mizanur Rahman; Shejunti, Maria Mehjabin ; Jabid, Taskeed (2022), “MangoLeafBD Dataset”, Mendeley Data, V1, doi: 10.17632/hxsnvwty3r.1
 
-<h2><b> Solution and results </b></h2>
+<h2><b> Solution and results 🧠 </b></h2>
 
 The dataset consists of 4000 images distributed among 8 classes, with a total of 1800 images representing various leaf disease classes. The remaining images are augmented data derived from these classes. Initially, a CNN model was built as a starting point to examine whether the convolutional layers could effectively extract information from the leaf areas.
 
@@ -43,7 +43,7 @@ Finally, the baseline model achieved an accuracy of 82%, whereas the comparison 
     </div>
 </div>
 
-<h2><b> Result Summary <b></h2>
+<h2><b> Result Summary 🔍📑<b></h2>
     
 <h3><b> GRAD-CAM visualization </b></h3>
     
