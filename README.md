@@ -1,4 +1,4 @@
-# Mango-Leaf-Disease-Classification
+# Mango Leaf Disease Classification using CNN, grad-CAM, and Deep feature extraction + KNN/SVM
 
 <h1><b> Summary Report </b></h1>
 
