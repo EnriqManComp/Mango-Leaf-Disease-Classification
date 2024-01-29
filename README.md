@@ -32,13 +32,13 @@ The CNN model exhibited strong performance in both training and validation phase
 
 <h3><b> Results </b></h3>
 
-Finally, the baseline model achieved an accuracy of 80%, whereas the comparison model outperformed with an accuracy of 98%. The confusion matrices of both models are shown in the following figures.
+Finally, the baseline model achieved an accuracy of 82%, whereas the comparison model outperformed with an accuracy of 98%. The confusion matrices of both models are shown in the following figures.
 
 <div style="display: flex; justify-content: space-between;">
     <div>        
-        <img src="https://raw.githubusercontent.com/EnriqManComp/Mango-Leaf-Disease-Classification/master/KNN%20model.png" alt="KNN Model">
+        <img src="https://raw.githubusercontent.com/EnriqManComp/Mango-Leaf-Disease-Classification/master/KNN.png" alt="KNN Model">
     </div>
     <div>        
-        <img src="https://raw.githubusercontent.com/EnriqManComp/Mango-Leaf-Disease-Classification/master/SVM%20model.png" alt="SVM Model">
+        <img src="https://raw.githubusercontent.com/EnriqManComp/Mango-Leaf-Disease-Classification/master/SVM.png" alt="SVM Model">
     </div>
 </div>
